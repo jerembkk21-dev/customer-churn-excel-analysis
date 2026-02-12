@@ -75,4 +75,4 @@ c) Created visualizations:
 - Offer retention incentives for younger customer segments.
 - Focus retention campaigns on high-churn states.
 
-![Dashboard](screenshots/Churn_dashboard.png)
+![Dashboard](screenshots/churn_dashboard.png)
