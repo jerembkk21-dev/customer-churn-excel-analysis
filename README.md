@@ -74,3 +74,5 @@ c) Created visualizations:
 - Target high-consumption users with unlimited plan promotions.
 - Offer retention incentives for younger customer segments.
 - Focus retention campaigns on high-churn states.
+
+![Dashboard](screenshots/Project churn dashboard.png)
