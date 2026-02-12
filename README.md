@@ -8,13 +8,13 @@ a) For the data:
   
 b) After analysis:
 
-- Final Project Churn.xlsx
+- Final_Project_Churn.xlsx
   
 c) screenshots:
 
-- pivot table 1.png
-- pivot table 2.png
-- Project churn dashboard.png
+- Pivottable_1.png
+- Pivottable_2.png
+- Churn_dashboard.png
   
 d) Other:
 
@@ -75,4 +75,4 @@ c) Created visualizations:
 - Offer retention incentives for younger customer segments.
 - Focus retention campaigns on high-churn states.
 
-![Dashboard](Project churn dashboard.png)
+![Dashboard](screenshots/Churn_dashboard.png)
