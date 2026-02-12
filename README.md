@@ -1,6 +1,6 @@
 # customer-churn-excel-analysis
 
-**Project Content:**
+**1) Project Content:**
 
 a) For the data:
 
@@ -21,11 +21,11 @@ d) Other:
 - README.md
 
 
-**1) Project Overview**
+**2) Project Overview**
 
 This project analyzes customer churn using Microsoft Excel. The objective is to identify key factors influencing churn and generate actionable insights using PivotTables, calculated fields, grouping, and dashboards. This project was completed as part of a DataCamp case study.
 
-**2) Business Problem**
+**3) Business Problem**
 
 Customer churn directly impacts revenue and growth.
 - The goal of this analysis is to:
@@ -34,7 +34,7 @@ Customer churn directly impacts revenue and growth.
 - Analyze churn by demographic and service usage variables
 - Provide insights to reduce churn
 
-**3) Tools & Techniques Used**
+**4) Tools & Techniques Used**
 
 - Microsoft Excel
 - PivotTables
@@ -44,7 +44,7 @@ Customer churn directly impacts revenue and growth.
 - KPI calculation
 - Data visualization (Bar & Column charts)
 
-**4) Key Analysis Performed**
+**5) Key Analysis Performed**
 
 a) Created a calculated field:
 
@@ -62,14 +62,14 @@ c) Created visualizations:
 - Stacked column chart (Churn by Plan & Consumption)
 - KPI dashboard displaying overall churn rate
 
-**5) Key Insights**
+**6) Key Insights**
 
 - Customers without an unlimited data plan show a significantly higher churn rate.
 - Younger age groups (20–30) have higher churn.
 - High data consumers are more likely to churn when not subscribed to unlimited plans.
 - Certain states rank in the top 25 for churn rate.
 
-**5) Business Recommendations**
+**7) Business Recommendations**
 
 - Target high-consumption users with unlimited plan promotions.
 - Offer retention incentives for younger customer segments.
