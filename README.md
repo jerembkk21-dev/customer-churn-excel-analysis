@@ -1,5 +1,18 @@
 # customer-churn-excel-analysis
 
+**Project Content:**
+a) For the data:
+- 1.1 Data preparation.xlsx
+b) After analysis:
+- Final Project Churn.xlsx
+c) screenshots:
+- pivot table 1.png
+- pivot table 2.png
+- Project churn dashboard.png
+d) Other:
+- README.md
+
+
 **1) Project Overview**
 This project analyzes customer churn using Microsoft Excel. The objective is to identify key factors influencing churn and generate actionable insights using PivotTables, calculated fields, grouping, and dashboards. This project was completed as part of a DataCamp case study.
 
