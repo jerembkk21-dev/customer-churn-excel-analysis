@@ -47,13 +47,18 @@ Customer churn directly impacts revenue and growth.
 **4) Key Analysis Performed**
 
 a) Created a calculated field:
+
 - Churn Rate % = Churned Customers / Total Customers
+  
 b) Analyzed churn by:
+
 - Unlimited Data Plan
 - Age Groups
 - State
 - Average Consumption Levels
+  
 c) Created visualizations:
+
 - Stacked column chart (Churn by Plan & Consumption)
 - KPI dashboard displaying overall churn rate
 
